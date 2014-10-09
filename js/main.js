@@ -22,3 +22,4 @@ $dipperSection.waypoint(function () {
 $shuttleSection.waypoint(function () {
 	$shuttle.addClass('js-shuttle-fade');
 }, { offset: '50%' });
+
